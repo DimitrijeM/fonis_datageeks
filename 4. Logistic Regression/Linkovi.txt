@@ -1,0 +1,23 @@
+https://www.dataschool.io/guide-to-logistic-regression/
+https://gluon.mxnet.io/chapter02_supervised-learning/logistic-regression-gluon.html
+https://mlcourse.ai/notebooks/blob/master/jupyter_english/topic04_linear_models/topic4_linear_models_part1_mse_likelihood_bias_variance.ipynb?flush_cache=true
+https://mlcourse.ai/notebooks/blob/master/jupyter_english/topic04_linear_models/topic4_linear_models_part2_logit_likelihood_learning.ipynb?flush_cache=true
+https://mlcourse.ai/notebooks/blob/master/jupyter_english/topic04_linear_models/topic4_linear_models_part3_regul_example.ipynb?flush-cache=true
+
+
+Ideja:
+- Sta je klasifikacija?
+- Logisticka regresija Sklearn
+	- To je black-box
+	- Sta se desilo unutra
+- Zasto nismo mogli linearnom regresijom
+- Uvodimo sigmoid
+- Uvodimo logistic loss
+- Ucenje koeficijenata (gradijentni spust)
+- Razlaganje greske
+- Spajanje svega (u klasu)
+
+- Regularizacija
+	- Ridge
+	- Lasso
+	- Implementacija
